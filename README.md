@@ -6,7 +6,7 @@ Skills: NodeJS / Angular / JS / MySQL
 - 🌱 I’m currently learning CS and Web Development 
 - ⚡ Fun fact: I also Play Guitar and Bass :guitar: 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMendes41&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMendes41&theme=dark&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BrunoMendes41)  
 
