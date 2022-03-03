@@ -9,5 +9,3 @@ Skills: PHP / NodeJS / Angular / JS / MySQL
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMendes41&theme=dark&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BrunoMendes41&theme=dark)  
-
-![Profile views](https://gpvc.arturio.dev/BrunoMendes41)  
