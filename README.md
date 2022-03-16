@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Bruno
 #### And I'm a Jr Developer! :computer:
 
-Skills: PHP / NodeJS / Angular / JS / MySQL
+Skills: PHP / NodeJS / React / JS / MySQL
 
 - 🌱 I’m currently learning CS and Web Development 
 - ⚡ Fun fact: I also Play Guitar and Bass :guitar: 
