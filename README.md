@@ -7,7 +7,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruends&theme=gotham&show_icons=true)
 
 ### Working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bruends&repo=dictionary-app&theme=gotham)](https://github.com/bruends/dictionary-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bruends&repo=courses-app-ui&theme=gotham)](https://github.com/bruends/courses-app-ui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bruends&repo=courses-app-api&theme=gotham)](https://github.com/bruends/courses-app-api)
 
 ### Skills
 
